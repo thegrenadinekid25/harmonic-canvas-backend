@@ -17,5 +17,5 @@ numba==0.62.1
 soundfile==0.13.1
 librosa==0.11.0
 
-# Essentia - may need system dependencies
-essentia>=2.1b6
+# Essentia - using stable version (2.1b6 has metadata issues)
+essentia==2.1b5
